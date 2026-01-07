@@ -1,0 +1,3 @@
+E101|Rahul Sharma|IT|Developer|55000.0|2026-01-07
+E102|Sneha Patil|HR|Manager|65000.0|2026-01-07
+E103|Amit Verma|Accounts|Accountant|48000.0|2026-01-07
